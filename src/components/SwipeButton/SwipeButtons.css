@@ -1,0 +1,11 @@
+
+
+
+.swipeButtons{
+    position:fixed;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    bottom: 5vh;
+
+}
