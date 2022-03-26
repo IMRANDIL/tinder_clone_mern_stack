@@ -19,7 +19,7 @@ const Header = () => {
             <img draggable='false' src="https://1000logos.net/wp-content/uploads/2018/07/Tinder-icon.png" className='header__logo' alt="tinder-img" />
 
             <IconButton>
-                <ForumIcon />
+                <ForumIcon fontSize='large' className='header__icon' />
             </IconButton>
         </div>
     )
