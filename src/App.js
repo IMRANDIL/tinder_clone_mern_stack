@@ -1,7 +1,8 @@
 
 import './App.css';
 import Header from './components/Header/Header';
-import TinderCard from './components/TinderCard/TinderCard';
+import TinderCaard from './components/TinderCard/TinderCard';
+
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
 
       {/* Tinder Card */}
 
-      <TinderCard />
+      <TinderCaard />
 
       {/* buttons-header */}
     </div>
