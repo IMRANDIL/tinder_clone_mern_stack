@@ -8,7 +8,9 @@ import './TinderCard.css'
 
 const TinderCard = () => {
     return (
-        <div className='tinderCards'>TinderCard</div>
+        <div className='tinderCards'>
+
+        </div>
     )
 }
 
