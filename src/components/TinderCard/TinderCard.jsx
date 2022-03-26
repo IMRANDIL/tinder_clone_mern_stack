@@ -59,6 +59,22 @@ const TinderCaard = () => {
 
                     >
 
+
+                        <div
+                            style={{ backgroundImage: `url(${pep.url})` }}
+                            className='card'
+
+
+                        >
+
+                            <h3>{pep.name}</h3>
+
+
+                        </div>
+
+
+
+
                     </TinderCard>
                 ))}
             </div>
